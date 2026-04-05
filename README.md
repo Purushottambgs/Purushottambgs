@@ -14,7 +14,7 @@ I enjoy building real-world projects using **Python, Flask, and Java**, and extr
 - 🔍 Interested in Data Analysis & Machine Learning  
 - 🌐 Building Web Applications using Flask  
 - 💡 Love solving real-world problems using data  
-- 🎯 Goal: Become a Data Scientist  
+  
 
 ---
 
