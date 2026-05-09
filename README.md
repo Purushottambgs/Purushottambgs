@@ -4,10 +4,6 @@
 📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner
 📍 India
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushottambgs&show_icons=true" />
-</p>
-
 ---
 
 # 🚀 About Me
