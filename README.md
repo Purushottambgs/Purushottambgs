@@ -1,20 +1,24 @@
 # 👋 Hi, I'm Purushottam Kumar
 
 🎓 MCA Final Year Student (2024–2026)
-💻 Aspiring Data Analyst | Python Developer | AI/ML Enthusiast
+📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner
 📍 India
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushottambgs&show_icons=true" />
+</p>
 
 ---
 
 # 🚀 About Me
 
-I am a passionate MCA student with strong skills in Data Analytics, Python, SQL, and Machine Learning fundamentals.
-I enjoy working on real-world datasets, building analytical dashboards, and developing intelligent web applications using Python and Flask.
+I am a passionate MCA student with strong skills in Data Analytics, SQL, Power BI, Python, and Machine Learning fundamentals.
+I enjoy analyzing real-world datasets, building interactive dashboards, and extracting meaningful business insights through data-driven solutions.
 
 🔍 Interested in Data Analytics & Machine Learning
-📊 Skilled in Data Cleaning, EDA & Visualization
-🌐 Building Web Applications using Flask
-💡 Passionate about solving real-world business problems using data
+📊 Skilled in Data Cleaning, EDA & Data Visualization
+📈 Passionate about Business Insights & Predictive Analytics
+💡 Love solving real-world problems using data
 
 ---
 
@@ -36,11 +40,11 @@ I enjoy working on real-world datasets, building analytical dashboards, and deve
 * Data Cleaning & EDA
 * Predictive Analytics
 
-## 🌐 Web Development
+## 📈 Visualization & BI
 
-* Flask
-* HTML, CSS
-* REST APIs (Basics)
+* Power BI
+* Looker Studio
+* Excel
 
 ## ⚙️ Tools & Platforms
 
@@ -48,8 +52,7 @@ I enjoy working on real-world datasets, building analytical dashboards, and deve
 * VS Code
 * Google Colab
 * MySQL
-* Power BI
-* Looker Studio
+* Flask
 
 ---
 
@@ -80,9 +83,9 @@ I enjoy working on real-world datasets, building analytical dashboards, and deve
 # 📈 Currently Learning
 
 * Advanced Machine Learning
-* Data Structures & Algorithms (Java)
-* Backend Development with Flask APIs
 * Data Visualization & Business Intelligence
+* Backend Development with Flask APIs
+* Data Structures & Algorithms (Java)
 
 ---
 
@@ -96,4 +99,4 @@ I enjoy working on real-world datasets, building analytical dashboards, and deve
 
 # ⚡ Fun Fact
 
-I believe that data-driven decisions and technology can create meaningful real-world impact. 🚀
+I believe data-driven decisions can create real-world impact. 🚀
