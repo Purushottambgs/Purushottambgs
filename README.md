@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Purushottam Kumar
 
 🎓 MCA Final Year Student (2024–2026)
-📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner| SAP BASIS
+📊 Aspiring Data Analyst | Data Science | AI/ML Learner| SAP BASIS
 📍 India
 
 ---
@@ -11,7 +11,7 @@
 I am a passionate MCA student with strong skills in Data Analytics, SQL, Power BI, Python, and Machine Learning fundamentals.
 I enjoy analyzing real-world datasets, building interactive dashboards, and extracting meaningful business insights through data-driven solutions.
 
-🔍 Interested in Data Analytics & Machine Learning
+🔍 Interested in Data Analytics, Machine Learning, SAP BASIS
 📊 Skilled in Data Cleaning, EDA & Data Visualization
 📈 Passionate about Business Insights & Predictive Analytics
 💡 Love solving real-world problems using data
