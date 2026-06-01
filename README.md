@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Purushottam Kumar
 
 🎓 MCA Final Year Student (2024–2026)
-📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner
+📊 Aspiring Data Analyst | Data Science Enthusiast | AI/ML Learner| SAP BASIS
 📍 India
 
 ---
@@ -49,6 +49,7 @@ I enjoy analyzing real-world datasets, building interactive dashboards, and extr
 * Google Colab
 * MySQL
 * Flask
+* SAP BASIS
 
 ---
 
@@ -68,6 +69,12 @@ I enjoy analyzing real-world datasets, building interactive dashboards, and extr
 * Implemented preprocessing and classification models
 * Future scope: ECG/X-ray integration
 
+## Pruddo – Product Review Analysis Platform | JavaScript, API Integration, Web Development 2026
+* Worked in a team-based product review analysis platform focused on customer feedback and trust-score insights.
+* Contributed to frontend UI improvements, API integration support, and review display functionalities.
+* Assisted in integrating product comparison and customer insight features using web technologies.
+* Collaborated with team members during internship-based development and testing activities.
+
 ## 📈 Sales Analytics Dashboard
 
 * Built interactive Power BI dashboard for sales analysis
@@ -78,10 +85,11 @@ I enjoy analyzing real-world datasets, building interactive dashboards, and extr
 
 # 📈 Currently Learning
 
+* SAP BASIS
 * Advanced Machine Learning
 * Data Visualization & Business Intelligence
 * Backend Development with Flask APIs
-* Data Structures & Algorithms (Java)
+  
 
 ---
 
